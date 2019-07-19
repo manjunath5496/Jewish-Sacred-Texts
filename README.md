@@ -28,6 +28,30 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(19).pdf" style="text-decoration:none;">Critical Philosophy of Halakha (Jewish Law)</a></b></li>
                            
   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(20).pdf" style="text-decoration:none;">The Moroccan Jewish Piyyut: A Judeo-Arabic Cultural Synthesis </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(21).pdf" style="text-decoration:none;">Piyyut Commentary in Medieval Ashkenaz</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(22).pdf" style="text-decoration:none;">Tradition! Tradition? Rambam and the Mesorah</a></b></li>  
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(23).pdf" style="text-decoration:none;">Judaism as Philosophy: Studies in Maimonides and the Medieval Jewish Philosophers of Provence</a></b></li>
+                          
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(24).pdf" style="text-decoration:none;">Lessons in Tanya: Iggeret HaKodesh</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(25).pdf" style="text-decoration:none;">Philosophies of Judaism: The history of Jewish philosophy from Biblical times to Franz Rosenzweig</a></b></li>  
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(26).pdf" style="text-decoration:none;">Psalms</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(27).pdf" style="text-decoration:none;">A Manual of the Book of Psalms</a></b></li> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
