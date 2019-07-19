@@ -22,7 +22,11 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(16).pdf" style="text-decoration:none;">Targum and Testament Revisited</a></b></li>
                           
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(17).pdf" style="text-decoration:none;">Introduction to the Talmud and Midrash</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(18).rar" style="text-decoration:none;">The Aggadic Midrash Literature</a></b></li>  
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(19).pdf" style="text-decoration:none;">Critical Philosophy of Halakha (Jewish Law)</a></b></li>
+                           
   
   
   
