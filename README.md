@@ -42,10 +42,19 @@
                             
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(27).pdf" style="text-decoration:none;">A Manual of the Book of Psalms</a></b></li> 
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(28).pdf" style="text-decoration:none;"> The Torah: The Five Books of Moses</a></b></li>  
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(29).pdf" style="text-decoration:none;">The Sixth and Seventh Books of Moses</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(30).pdf" style="text-decoration:none;">The Book of Deuteronomy</a></b></li> 
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(31).pdf" style="text-decoration:none;"> BAMIDBAR Hebrew Book of Numbers Torah Portion Vol.4</a></b></li>  
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(32).pdf" style="text-decoration:none;">SHEMOT Hebrew Book of Exodus Torah Portion Vol.2 </a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(33).pdf" style="text-decoration:none;">VAYIKRA Hebrew Book of Leviticus Torah Portion Vol.3</a></b></li>  
   
-  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/jst(34).pdf" style="text-decoration:none;">The Testaments of the Twelve Patriarchs</a></b></li>   
   
   
   
