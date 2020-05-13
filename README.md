@@ -546,8 +546,7 @@
 <div id="NavFrame25" class="NavFrame collapsed">
 <div class="NavHead">Topics</div>
 <div class="NavContent plainlist">
-<ul>
-<li>
+
 <div class="hlist hlist-separated">
 <ul>
 <li><a title="" href="https://en.wikipedia.org/wiki/God_in_Judaism">God</a></li>
@@ -562,8 +561,7 @@
 <li><a title="Anger in Judaism" href="https://en.wikipedia.org/wiki/Anger_in_Judaism">Anger</a></li>
 </ul>
 </div>
-</li>
-</ul>
+
 </div>
 </div>
 </td>
